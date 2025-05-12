@@ -1,0 +1,16 @@
+{
+     "name": "HFSDbot",
+     "version": "1.0.0",
+     "dependencies": {
+       "telegraf": "^4.16.3",
+       "express": "^4.19.2",
+       "axios": "^1.7.7",
+       "node": "^20.18.0"
+     },
+     "scripts": {
+       "start": "node api/index.js"
+     },
+     "engines": {
+       "node": "20.x"
+     }
+   }
